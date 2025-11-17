@@ -77,5 +77,5 @@ authors 1 --- ∞ books 1 --- ∞ loans ∞ --- 1 members
 ---
 
 ## 👨‍💻 Author
-Made by <Dharshan J>.  
+Made by <Dharshan>.  
 Feel free to fork, clone, or improve!
